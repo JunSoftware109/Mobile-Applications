@@ -1,0 +1,76 @@
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\obj\Debug\App.g.i.cs
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\obj\Debug\MainPage.g.i.cs
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\obj\Debug\Lab3_Calculator_App.g.resources
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\ApplicationIcon.png
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\Background.png
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\Lab3_Calculator_App.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\Lab3_Calculator_App.pdb
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\AppManifest.xaml
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\Lab3_Calculator_App.xap
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\Microsoft.Advertising.Mobile.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\Microsoft.Phone.Controls.xml
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\obj\Debug\Lab3_Calculator_App.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\obj\Debug\Lab3_Calculator_App.pdb
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\Lab3_Calculator_App\Lab3_Calculator_App\obj\Debug\XapCacheFile.xml
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\ApplicationIcon.png
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\Background.png
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\Lab3_Calculator_App.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\Lab3_Calculator_App.pdb
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\AppManifest.xaml
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\Lab3_Calculator_App.xap
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\Microsoft.Advertising.Mobile.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\Microsoft.Advertising.Mobile.UI.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\Microsoft.Phone.Controls.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\Microsoft.Advertising.Mobile.UI.xml
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\Microsoft.Phone.Controls.xml
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\obj\Debug\App.g.i.cs
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\obj\Debug\MainPage.g.i.cs
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\obj\Debug\Lab3_Calculator_App.g.resources
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\obj\Debug\Lab3_Calculator_App.dll
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\obj\Debug\Lab3_Calculator_App.pdb
+F:\My College Work\DT080B Year 4\Semester 1\Mobile Applications\My Lab Work\Windows Phone Apps\Lab3_Calculator_App\Lab3_Calculator_App\obj\Debug\XapCacheFile.xml
